@@ -118,7 +118,7 @@ const Header: React.FC = () => {
                 <Instagram size={24} />
               </a>
               <a 
-                href="tel:+123456789" 
+                href="tel:8073174922" 
                 className="text-[#4A3B3B] hover:text-[#E0BFB8]"
               >
                 <Phone size={24} />
