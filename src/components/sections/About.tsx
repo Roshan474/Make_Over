@@ -12,7 +12,7 @@ const About: React.FC = () => {
             
             <div className="space-y-4 text-[#4A3B3B]/80">
               <p>
-                With over 8 years of experience in the beauty industry, Suma has established herself as a premier makeup artist known for creating timeless, elegant looks that enhance natural beauty.
+                With over 6 years of experience in the beauty industry, Suma has established herself as a premier makeup artist known for creating timeless, elegant looks that enhance natural beauty.
               </p>
               
               <p>
@@ -66,6 +66,12 @@ const About: React.FC = () => {
                 name: "Ashwini Rakesh",
                 role: "Reception Client",
                 quote: "Almost elru make up yar madiddu chanagide antha kelthidru ❤️❤️",
+                image: "feedback.jpg"
+              },
+              {
+                name: "Rakshitha Kadakola",
+                role: "Reception Client",
+                quote: "Mam thank you so much for your wonderful makeup. I am so happy for this long lasting makeover.Sumathi mam, you're the best one ❤️Once again, thank you so much for this beautiful artist.",
                 image: "feedback.jpg"
               }
             ].map((testimonial, index) => (

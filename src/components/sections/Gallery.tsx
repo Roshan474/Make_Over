@@ -21,6 +21,9 @@ const Gallery: React.FC = () => {
         { src: 'prt4.jpg', alt: 'Party Makeup Look 1' },
         { src: 'prt3.jpg', alt: 'Party Makeup Look 2' },
         { src: 'prt5.jpg', alt: 'Party Makeup Look 3' },
+        { src: 'prt7.jpg', alt: 'Party Makeup Look 4' },
+        { src: 'prt2.jpg', alt: 'Party Makeup Look 5' },
+        { src: 'prt6.jpg', alt: 'Party Makeup Look 6' },
       ]
     },
     {
