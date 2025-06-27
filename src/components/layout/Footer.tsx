@@ -28,7 +28,7 @@ const Footer: React.FC = () => {
               >
                 <Instagram size={20} />
               </a>
-              <a 
+              {/* <a 
                 href="#" 
                 className="text-white hover:text-[#E0BFB8] transition-colors"
               >
@@ -39,7 +39,7 @@ const Footer: React.FC = () => {
                 className="text-white hover:text-[#E0BFB8] transition-colors"
               >
                 <Twitter size={20} />
-              </a>
+              </a> */}
             </div>
           </div>
           
@@ -94,10 +94,10 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-start">
                 <Mail size={20} className="text-[#E0BFB8] mr-3 mt-1" />
-                <span className="text-white/70">hello@sumasmakeup.com</span>
+                <span className="text-white/70">sumathi.s.kunder.com</span>
               </li>
               <li className="text-white/70">
-                <p>123 Beauty Street</p>
+                <p>Reborn Beauty Lounge</p>
                 <p>1063/30, 2nd Main 6th Cross Rd, Vidyaranyapura, Mysuru, Karnataka 570008</p>
               </li>
             </ul>
